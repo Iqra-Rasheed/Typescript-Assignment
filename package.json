@@ -1,5 +1,5 @@
 {
-  "name": "stripping-names",
+  "name": "7.number-eight",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "iqra",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7"
   }
 }
